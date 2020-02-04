@@ -1,0 +1,20 @@
+{
+  "name": "burgerlogger",
+  "version": "1.0.0",
+  "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM following the MVC design pattern.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenHCalvert/burgerLogger.git"
+  },
+  "author": "Ben Calvert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenHCalvert/burgerLogger/issues"
+  },
+  "homepage": "https://github.com/BenHCalvert/burgerLogger#readme"
+}
